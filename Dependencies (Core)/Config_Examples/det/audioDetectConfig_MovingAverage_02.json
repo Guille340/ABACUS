@@ -1,0 +1,10 @@
+{
+"receiverName": "Buoy1_H2",
+"sourceName": "Airgun",
+"detector": "MovingAverage",
+"DetectParameters": {
+	"windowDuration": 1,
+	"windowOffset": 0.5,
+	"threshold": [],
+	"cutoffFreqs": [20,10000]}
+}

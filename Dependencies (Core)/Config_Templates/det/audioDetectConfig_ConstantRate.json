@@ -1,0 +1,9 @@
+{
+"receiverName": "",
+"sourceName": "",
+"detector": "ConstantRate",
+"DetectParameters": {
+	"windowDuration": [],
+	"windowOffset": [],
+	"fileName": ""}
+}

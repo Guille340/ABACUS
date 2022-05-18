@@ -1,0 +1,12 @@
+{
+"receiverCategory": "towed",
+"receiverName": "Buoy1_H2",
+"receiverOffset": [0,0],
+"receiverOffsetMode": "soft",
+"positionPaths": "GPS (SeicheSsv).gpstext",
+"positionFormat": "GPS",
+"positionPlatform": "SeicheSsv",
+"vesselId": [],
+"mmsi": [],
+"depth": -2
+}

@@ -1,0 +1,13 @@
+{
+"sourceCategory": "towed",
+"sourceName": "Airgun",
+"sourceOffset": [0,0],
+"sourceOffsetMode": "hard",
+"positionPaths": "P190 (Seismic).p190",
+"positionFormat": "P190",
+"positionPlatform": "Seismic",
+"vesselId": 1,
+"sourceId": 1,
+"mmsi": [],
+"depth": -2
+}

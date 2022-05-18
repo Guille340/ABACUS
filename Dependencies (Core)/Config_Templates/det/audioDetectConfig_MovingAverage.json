@@ -1,0 +1,10 @@
+{
+"receiverName": "",
+"sourceName": "",
+"detector": "MovingAverage",
+"DetectParameters": {
+	"windowDuration": [],
+	"windowOffset": [],
+	"threshold": [],
+	"cutoffFreqs": []}
+}

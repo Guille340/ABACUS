@@ -1,0 +1,5 @@
+{
+"audio": "<PARENT_DIRECTORY>\\<AUDIO_FOLDER>",
+"position": "<PARENT_DIRECTORY>\\<POSITION_FOLDER>",
+"block": "<PARENT_DIRECTORY>\\<BLOCK_FOLDER>"
+}

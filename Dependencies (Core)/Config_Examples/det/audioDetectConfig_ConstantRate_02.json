@@ -1,0 +1,9 @@
+{
+"receiverName": "Buoy1_H2",
+"sourceName": "Airgun",
+"detector": "ConstantRate",
+"DetectParameters": {
+	"windowDuration": 5,
+	"windowOffset": 2.5,
+	"fileName": "pulseTable.csv"}
+}

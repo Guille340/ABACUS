@@ -1,0 +1,7 @@
+{
+"sourceCategory": "fleet",
+"sourceName": "fleet",
+"positionPaths": "AIS (PamGuard).csv",
+"positionFormat": "AIS",
+"positionPlatform": "PamGuard"
+}

@@ -1,0 +1,10 @@
+{
+"receiverName": "Buoy1_H2",
+"sourceName": "Airgun",
+"freqLimits": [20, 20000],
+"bandsPerOctave": 3,
+"cumEnergyRatio": 0.9,
+"audioTimeFormat": "yyyymmdd_HHMMSS_FFF*",
+"timeOffset": 0,
+"tags": ["full","rampup"]
+}

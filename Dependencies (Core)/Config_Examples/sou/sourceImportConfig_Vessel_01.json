@@ -1,0 +1,14 @@
+{
+"sourceCategory": "vessel",
+"sourceName": "AutoNaut",
+"positionPaths": "GPS (PAMGuard).csv",
+"positionFormat": "GPS",
+"positionPlatform": "PamGuard",
+"vesselId": [],
+"mmsi": [],
+"vesselName": "Islay",
+"vesselLength": 6,
+"vesselBeam": 1.5,
+"vesselDraft": 0.5,
+"vesselGrossTonnage": 0.2
+}

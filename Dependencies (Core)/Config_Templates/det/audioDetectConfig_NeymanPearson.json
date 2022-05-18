@@ -1,0 +1,18 @@
+{
+"receiverName": "",
+"sourceName": "",
+"detector": "NeymanPearson",
+"DetectParameters": {
+	"detectorType": "",
+	"kernelDuration": [],
+	"windowDuration": [],
+	"windowOffset": [],
+	"rtpFalseAlarm": [],
+	"detectorSensitivity": [],
+	"minSnrLevel": [],
+	"cutoffFreqs": [,],
+	"trainFolder": "",
+	"estimator": "",
+	"resampleRate": []
+	}
+}

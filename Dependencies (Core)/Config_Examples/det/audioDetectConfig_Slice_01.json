@@ -1,0 +1,8 @@
+{
+"receiverName": "Buoy1_H1",
+"sourceName": "Airgun",
+"detector": "Slice",
+"DetectParameters": {
+	"windowDuration": 1}
+}
+

@@ -1,0 +1,9 @@
+{
+"audioFormat": "RAW",
+"channel": 2,
+"resampleRate": 48000,
+"sampleRate": 48000,
+"bitDepth": 16,
+"numChannels": 2,
+"endianness": "l"
+}
