@@ -41,8 +41,8 @@
 %  email: gjarranz@gmail.com
 %  18 Jun 2021
 
-function SouProData = initialiseVesselProcessData()
+function VesProData = initialiseVesselProcessData()
 
-SouProData = struct('pcTick',[],'utcTick',[],'latitude',[],'longitude',[],...
+VesProData = struct('pcTick',[],'utcTick',[],'latitude',[],'longitude',[],...
     'depth',[],'course',[],'speed',[],'sou2recDistance',[],...
     'sou2recBearing',[],'sourceHeading',[],'sourceEmitAngle',[]);
